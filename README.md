@@ -161,10 +161,6 @@ android {
     - Type: `NavigationDecision`
 
 
-![meme1](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/14/11/enhanced/webdr13/enhanced-buzz-wide-13335-1429024179-8.jpg)
-
-## Source code :
-[Github Repo](https://github.com/Djsmk123/ccavenue_flutter_example)
 
 ## Follow me on
 
